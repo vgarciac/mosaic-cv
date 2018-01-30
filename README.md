@@ -8,7 +8,7 @@ Monocular video based Mosaic Generation System for mobile robots implemented in 
 ## Directory Layout
 
     ├── modules
-     \ ├── fcomp           # module for festure extractor comparison
+     \ ├── fcomp           # module for feature extractor comparison
           ├── src          # source files
           ├── include      # header files
           └── ...          
