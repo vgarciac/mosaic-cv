@@ -1,0 +1,10 @@
+# Compiler Settings
+.vscode
+
+# Compiled Object files
+mosaic-opencv
+build
+
+# Data files
+*.MOV
+*.jpg
